@@ -14,4 +14,4 @@ Feed in a plain-text contract and receive a structured JSON output highlighting 
 ---
 
 📄 **Explore the Tools**  
-🔗 [View Contract Tools Guide](./Contract-Pro-Laucher.md)
+🔗 [View Contract Tools Guide](/Contract-Pro-Laucher.md)
