@@ -1,8 +1,0 @@
-This agreement is made between Acme Inc. and StartupX LLC.
-
-The vendor shall be paid $10,000 monthly for services rendered.
-All invoices shall be paid Net 30.
-Client agrees to indemnify without cap.
-
-Termination fee shall be $50,000 if canceled within 12 months.
-StartupX LLC is entitled to a 5% revenue share on all product sales.
