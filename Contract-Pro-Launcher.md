@@ -1,17 +1,18 @@
-# Contract Analyzer Tool
+# 📄 Contract Pro Launcher
 
-This tool helps Procurement, Finance, Legal, and Startup teams extract critical insights from business contracts.
-
-### Features
-- **Procurement:** Detect recurring vendor fees for benchmarking.
-- **Finance:** Extract all "Net X" payment terms to optimize cash flow.
-- **Legal:** Flag clauses with uncapped indemnity or high termination penalties.
-- **Startups:** Auto-log revenue-sharing terms for investor due diligence.
-
-### How it works
-Feed in a plain-text contract and receive a structured JSON output highlighting key financial and legal terms.
+Smart tools to extract critical insights from business contracts and improve operational efficiency across departments.
 
 ---
 
-📄 **Explore the Tools**  
-🔗 [Launch & Guide: Contract Analyzer](https://github.com/jeremy10a/Contracts-Pro/blob/main/Contract-Pro-Launcher.md)
+### 📊 AI Contract Analyzer
+
+Use this tool to automatically extract key clauses from contracts—such as vendor fees, payment terms, legal risks, and revenue-sharing agreements—for finance, procurement, legal, and investor workflows.
+
+🔗 [Launch Contract Pro](https://script.google.com/macros/s/AKfycbxY6efMgEfOAd7Tpy4GCIfZxf7n7kSOr9Ykf2ViaSwYFcf8NN7D324_OsTLha_yr7tl/exec)
+
+---
+
+### 🛠️ Tips for Best Results
+- Paste full contract text or upload as plain text.
+- Ensure financial terms like "Net 30" and vendor names are clearly written.
+- Use complete clause language for accurate flagging of legal risks.
