@@ -1,4 +1,4 @@
-# Contract Analyzer Tool
+# Contract Pro Tool
 
 This tool helps Procurement, Finance, Legal, and Startup teams extract critical insights from business contracts.
 
@@ -10,3 +10,8 @@ This tool helps Procurement, Finance, Legal, and Startup teams extract critical 
 
 ### How it works
 Feed in a plain-text contract and receive a structured JSON output highlighting key financial and legal terms.
+
+---
+
+📄 **Explore the Tools**  
+🔗 [View Contract Tools Guide](./Contract-Pro-Laucher.md)
