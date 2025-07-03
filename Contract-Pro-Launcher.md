@@ -8,7 +8,7 @@ Smart tools to extract critical insights from business contracts and improve ope
 
 Use this tool to automatically extract key clauses from contracts—such as vendor fees, payment terms, legal risks, and revenue-sharing agreements—for finance, procurement, legal, and investor workflows.
 
-🔗 [Launch Contract Pro](https://script.google.com/macros/s/AKfycbypd5nBHECmRqg-CfpNpu_Ad3eEA9Wo1e99LKEujJCZes-NRCRv-CLwmJDpKHjOBUTD_w/exec)
+🔗 [Launch Contract Pro](https://script.google.com/macros/s/AKfycbxoXdKLsk2sJKlN7CLS241b3kd79AISfX6Ua94F6YpRwcCn_0D8vJ3Jb0_wXEmznd14/exec)
 
 ---
 
